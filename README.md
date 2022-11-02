@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkzorbey" alt="berkzorbey" /></a> </p>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://github.com/Auri-Zorbey/Personal-Portfolio)
+- 🔭 I’m currently working on [Movie_Web](https://github.com/BerkZorbey/Movie_Web.git)
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **.Net**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **.Net**
 
 - 📫 How to reach me **berktaha1994@gmail.com**
 
